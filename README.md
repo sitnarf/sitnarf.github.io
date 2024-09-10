@@ -10,6 +10,9 @@ I'm a full-stack developer and data scientist with expertise in machine learning
 ### [biomarkers-unsupervised](https://github.com/HCVE/biomarkers-unsupervised)
 This repository is dedicated to unsupervised analysis of biomarker data, including techniques like clustering and network analysis. It supports a blend of Python, Jupyter, and R for comprehensive data exploration.
 
+### [pipeworker](https://github.com/sitnarf/pipeworker)
+Pipeworker is a simplistic framework for creating and structuring data science and machine learning pipelines. It enables users to build pipelines with interconnected data processing nodes. Nodes can be connected serially or in parallel to streamline processes like data preprocessing, model training, and evaluation. The framework promotes modular design and scalability, with planned features like caching and parallelism to optimize performance.
+
 ### [emoji auto convert for Signal](https://github.com/signalapp/Signal-Desktop/pull/4942/commits/53b9b6d73d6eb3f7ba42959b1b4f6dd81452d9d8)
 A contribution to a popular open-source messaging app that converts text emojis to a graphical ones while typing.
 
